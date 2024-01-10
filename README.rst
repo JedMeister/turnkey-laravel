@@ -52,5 +52,5 @@ Credentials *(passwords set at first boot)*
 .. _artisan: https://laravel.com/docs/artisan
 .. _turnkey-artisan: https://github.com/turnkeylinux/common/blob/master/overlays/artisan/usr/local/bin/turnkey-artisan
 .. _Adminer: https://www.adminer.org
-.. _Laravel Documentation: https://laravel.com/docs/6.x
+.. _Laravel Documentation: https://laravel.com/docs/10.x
 .. _Laravel Upgrade Documentation: https://laravel.com/docs/upgrade
